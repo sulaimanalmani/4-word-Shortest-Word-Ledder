@@ -1,4 +1,4 @@
-# 4-word-Shortest-Word-Ledder
+# 4-word-Shortest-Word-Ladder
 4-word shortest word ladder using graphs and Dijkstra's Algorithm
 
 Note:
